@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EF98DD93-BE23-4E71-BAE0-E880D8C5AF1F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BSMS/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="BSMS/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="BSMS/Controllers/AccountController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BSMS PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
