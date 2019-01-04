@@ -1,0 +1,117 @@
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMS.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMS.pdb
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSEntity.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSRepository.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/EntityFramework.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/EntityFramework.SqlServer.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/Microsoft.Web.Infrastructure.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Helpers.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Mvc.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Razor.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Webpages.Deployment.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Webpages.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Webpages.Razor.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSInterface.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSEntity.pdb
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSEntity.dll.config
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSRepository.pdb
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSRepository.dll.config
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/EntityFramework.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/EntityFramework.SqlServer.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Razor.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Webpages.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Webpages.Deployment.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Webpages.Razor.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Helpers.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/System.Web.Mvc.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSInterface.pdb
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/bin/BSMSInterface.dll.config
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/obj/Debug/BSMS.csprojResolveAssemblyReference.cache
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/obj/Debug/BSMS.csproj.CoreCompileInputs.cache
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/obj/Debug/BSMS.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMS/obj/Debug/BSMS.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\obj\Debug\BSMS.csprojResolveAssemblyReference.cache
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\obj\Debug\BSMS.csproj.CoreCompileInputs.cache
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMS.dll.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMS.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMS.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\csc.exe
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\csc.exe.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\csc.rsp
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\csi.exe
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\csi.exe.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\csi.rsp
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.AppContext.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Collections.Immutable.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Console.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Diagnostics.Process.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.IO.Compression.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.IO.FileSystem.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.IO.Pipes.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Security.AccessControl.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Security.Claims.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Threading.Thread.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.ValueTuple.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Xml.XPath.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\vbc.exe
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\vbc.exe.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\vbc.rsp
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\VBCSCompiler.exe
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\roslyn\VBCSCompiler.exe.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSEntity.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSRepository.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\EntityFramework.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\EntityFramework.SqlServer.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\Microsoft.Web.Infrastructure.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Helpers.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Mvc.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Razor.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Webpages.Deployment.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Webpages.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Webpages.Razor.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSInterface.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSEntity.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSEntity.dll.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSRepository.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSRepository.dll.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\EntityFramework.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\EntityFramework.SqlServer.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Razor.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Webpages.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Webpages.Deployment.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Webpages.Razor.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Helpers.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\System.Web.Mvc.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSInterface.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\bin\BSMSInterface.dll.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\obj\Debug\BSMS.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMS\obj\Debug\BSMS.pdb

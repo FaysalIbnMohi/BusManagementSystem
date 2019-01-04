@@ -1,0 +1,50 @@
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSRepository.dll.config
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSRepository.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSRepository.pdb
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSEntity.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSInterface.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/EntityFramework.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/EntityFramework.SqlServer.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSEntity.pdb
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSEntity.dll.config
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSInterface.pdb
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/BSMSInterface.dll.config
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/EntityFramework.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/bin/Debug/EntityFramework.SqlServer.xml
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/obj/Debug/BSMSRepository.csprojResolveAssemblyReference.cache
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/obj/Debug/BSMSRepository.csproj.CoreCompileInputs.cache
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/obj/Debug/BSMSRepository.dll
+/Users/akra/Dropbox/BSMS/BSMS/BSMSRepository/obj/Debug/BSMSRepository.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSRepository.dll.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSRepository.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSRepository.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSEntity.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSInterface.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\EntityFramework.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Microsoft.Owin.Cors.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Microsoft.Owin.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Newtonsoft.Json.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Owin.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\System.Net.Http.Formatting.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\System.Web.Cors.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\System.Web.Http.Cors.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\System.Web.Http.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSEntity.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSEntity.dll.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSInterface.pdb
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\BSMSInterface.dll.config
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\EntityFramework.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Microsoft.Owin.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Microsoft.Owin.Cors.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\Newtonsoft.Json.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\System.Net.Http.Formatting.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\System.Web.Http.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\bin\Debug\System.Web.Http.Cors.xml
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\obj\Debug\BSMSRepository.csprojResolveAssemblyReference.cache
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\obj\Debug\BSMSRepository.csproj.CoreCompileInputs.cache
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\obj\Debug\BSMSRepository.dll
+E:\Drop Box\Dropbox\BSMS\BSMS\BSMSRepository\obj\Debug\BSMSRepository.pdb

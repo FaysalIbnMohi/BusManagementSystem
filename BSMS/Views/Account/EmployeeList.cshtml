@@ -1,0 +1,173 @@
+﻿@model IEnumerable<BSMSEntity.Employee>
+
+@{
+    ViewBag.Title = "EmployeeList";
+    Layout = "~/Views/_layout.cshtml";
+}
+<style>
+    #myInput {
+        background-image: url('/css/searchicon.png');
+        background-position: 10px 10px;
+        background-repeat: no-repeat;
+        width: 100%;
+        font-size: 16px;
+        padding: 12px 20px 12px 40px;
+        border: 1px solid #ddd;
+        margin-bottom: 12px;
+    }
+
+    #myTable {
+        border-collapse: collapse;
+        width: 100%;
+        border: 1px solid #ddd;
+        font-size: 18px;
+    }
+
+        #myTable th, #myTable td {
+            text-align: left;
+            padding: 12px;
+        }
+
+        #myTable tr {
+            border-bottom: 1px solid #ddd;
+        }
+
+            #myTable tr.header, #myTable tr:hover {
+                background-color: #f1f1f1;
+            }
+</style>
+<h2>EmployeeList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddEmployee")
+</p>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+<select id="selectedId">
+    <option value="0">Select an option</option>
+    <option value="0">Search By Name</option>
+    <option value="1">Search By Email</option>
+    <option value="3">Search By User Role</option>
+</select>
+<select id="aaa">
+    <option value="0" onclick="loadActive()">Show All User</option>
+    <option value="1" onclick="loadActive()">Show All Active User</option>
+</select>
+<table class="table" border="1" id="myTable">
+    <tr>
+
+        <th>
+            Full Name
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PresentAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserRole)
+        </th>
+        <th>
+            Active
+        </th>
+        <th>
+            Edit
+        </th>
+        <th>
+            Details
+        </th>
+        <th>
+            Delete
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.FirstName @item.LastName
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PresentAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserRole)
+            </td>
+            <td>
+                @item.IsActive
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+            </td>
+            <td>
+                @Html.ActionLink("Details", "EmployeeDetails", new { id = item.Id })
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+<script>
+
+    function loadActive() {
+        var input, filter, table, tr, td, i;
+        input = document.getElementById("myInput");
+        var id = document.getElementById("aaa").value;
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+        for (i = 0; i < tr.length; i++) {
+            console.log(id);
+            if (id == "1") {
+                td = tr[i].getElementsByTagName("td")[4];
+                if (td) {
+                    if (td.innerHTML.toUpperCase().indexOf("TRUE") > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+            else {
+                tr[i].style.display = "";
+            }
+        }
+    }
+    function myFunction() {
+        var input, filter, table, tr, td, i;
+        var id = document.getElementById("selectedId").value;
+        var parm = document.getElementById("aaa").value;
+        
+        input = document.getElementById("myInput");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[id];
+
+            if (td) {
+                if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                    if (parm == "1") {
+                        var temp = tr[i].getElementsByTagName("td")[4];
+                        if (temp.innerHTML.toUpperCase().indexOf("TRUE") > -1) {
+                            tr[i].style.display = "";
+                        }
+                    }
+                    else {
+                        tr[i].style.display = "";
+                    }
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+</script>
